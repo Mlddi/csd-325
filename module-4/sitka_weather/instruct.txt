@@ -1,0 +1,13 @@
+Instructions :
+
+The Matplotlib Graphing App is very easy to use!
+
+Using the Navigation bar, Users can easily zoom in, zoom out, go back and forth between postions saved in history - or return to the center. 
+
+The graph in Red is the High Tempertatures graph, it is the first graph shown. 
+
+The graph in Blue is the Low Tempertatures graph, to find it, press the Next or Previous button.   
+
+Users can switch between graphs with the Previous and Next buttons.
+
+To Exit press the top Red X button at the top corner right.
